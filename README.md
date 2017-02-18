@@ -11,7 +11,22 @@ A UILabel support padding.
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```
+
+#import <WKPaddingLabel/WKPaddingLabel.h>
+
+WKPaddingLabel *label = [WKPaddingLabel new];
+label.text = @"red label";
+label.padding = UIEdgeInsetsMake(10, 50, 10, 10);
+
+```
+
+---
+![sampleImage](sample.png)
+---
+
 ## Requirements
+iOS 8.0
 
 ## Installation
 
