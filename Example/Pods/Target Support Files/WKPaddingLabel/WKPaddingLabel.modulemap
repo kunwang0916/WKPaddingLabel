@@ -1,0 +1,6 @@
+framework module WKPaddingLabel {
+  umbrella header "WKPaddingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

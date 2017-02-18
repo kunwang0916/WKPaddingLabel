@@ -1,0 +1,16 @@
+PODS:
+  - WKPaddingLabel (0.1.0)
+
+DEPENDENCIES:
+  - WKPaddingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  WKPaddingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKPaddingLabel: cfd9af3f1be95ad9b60e6ce408ccab79b5e215b2
+
+PODFILE CHECKSUM: 692fae7df3427d3a681a2332258de54a701033ca
+
+COCOAPODS: 1.1.1

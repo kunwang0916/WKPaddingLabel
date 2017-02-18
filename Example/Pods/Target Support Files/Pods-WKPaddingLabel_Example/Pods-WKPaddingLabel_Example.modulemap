@@ -1,0 +1,6 @@
+framework module Pods_WKPaddingLabel_Example {
+  umbrella header "Pods-WKPaddingLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

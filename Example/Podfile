@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WKPaddingLabel_Example' do
+  pod 'WKPaddingLabel', :path => '../'
+
+  target 'WKPaddingLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
